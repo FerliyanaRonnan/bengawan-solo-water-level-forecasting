@@ -1,4 +1,5 @@
-# bengawan solo water level forecasting
+# Prediksi Tinggi Muka Air (TMA) Bengawan Solo
+### Sebelas Maret Statistics & Data Science Competition 2026
 
 **Ferliyana Ronnan, ig: @ron.nan7**
 
